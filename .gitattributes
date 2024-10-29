@@ -1,0 +1,2 @@
+*.largefiletype filter=lfs diff=lfs merge=lfs -text
+Limpieza[[:space:]]y[[:space:]]procesamiento/fraud_dataset.csv filter=lfs diff=lfs merge=lfs -text
